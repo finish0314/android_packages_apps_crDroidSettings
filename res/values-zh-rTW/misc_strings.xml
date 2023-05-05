@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+      Copyright (C) 2016-2024 crDroid Android Project
+
+      Licensed under the Apache License, Version 2.0 (the "License");
+      you may not use this file except in compliance with the License.
+      You may obtain a copy of the License at
+
+           http://www.apache.org/licenses/LICENSE-2.0
+
+      Unless required by applicable law or agreed to in writing, software
+      distributed under the License is distributed on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+      See the License for the specific language governing permissions and
+      limitations under the License.
+-->
+ <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+ <string name="gaming_category">"遊戲"</string>
+ <string name="spoofing_category">"偽裝"</string>
+ <string name="security_category">"安全"</string>
+ <string name="other_category">"雜項"</string>
+
+ <!-- 儀錶板樣式 -->
+ <string name="quick_summary">"快速設置樣式和自定義"</string>
+ <string name="bottom_summary">"電源功能表和其他底部選項"</string>
+ <string name="lockscreen_summary">"自定義鎖屏時鐘和字體"</string>
+ <string name="mice_summary">"一些值得探索的特殊選項"</string>
+ <string name="navigation_summary">"自定義導航底部"</string>
+ <string name="notification_summary">"浮動通知和其他通知設置"</string>
+ <string name="status_summary">"自定義狀態列時鐘和圖示"</string>
+ <string name="sound_summary">"聲音設置、脈衝和其他音量自定義"</string>
+ <string name="user_summary">"各種使用者介面定製"</string>
+ <string name="about_summary">"了解這個專案"</string>
+</resources>
