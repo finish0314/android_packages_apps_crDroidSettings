@@ -27,7 +27,7 @@
 
       <!-- Buttons -->
         <Preference
-            android:icon="@drawable/ic_settings_cogs"
+            android:icon="@drawable/ic_shapes"
 	        android:title="@string/button_title"
             android:summary="@string/bottom_summary"
             android:fragment="com.crdroid.settings.fragments.Buttons" />
